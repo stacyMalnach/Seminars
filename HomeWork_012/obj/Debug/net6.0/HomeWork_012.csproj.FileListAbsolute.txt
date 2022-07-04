@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\bin\Debug\net6.0\HomeWork_012.exe
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\bin\Debug\net6.0\HomeWork_012.deps.json
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\bin\Debug\net6.0\HomeWork_012.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\bin\Debug\net6.0\HomeWork_012.dll
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\bin\Debug\net6.0\HomeWork_012.pdb
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.dll
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\refint\HomeWork_012.dll
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.pdb
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\HomeWork_012.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Seminars\HomeWork_012\obj\Debug\net6.0\ref\HomeWork_012.dll
